@@ -1,0 +1,60 @@
+img {
+    width: 100%;
+    height: 500px;
+}
+
+b {
+    font-size: xx-large;
+    font-style: italic;
+    font-family: verdana;
+    font-weight: 500px;
+}
+
+p {
+    font-family: times new roman;
+    font-size: 20px;
+    line-height: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
+}
+
+#last {
+    background-color: maroon;
+    color: white;
+    font-family: calibri;
+    font-weight: 300px;
+}
+
+button {
+    margin-left: 550px;
+    width: 200px;
+    height: 50px;
+    border-radius: 25px;
+    border-color: black;
+    text-decoration: none;
+    color: black;
+    background-color: rgba(4, 45, 68, 0.959);
+}
+
+hr {
+    color: rgba(240, 48, 208, 0.829);
+    border-width: 10px;
+    text-shadow: darkviolet;
+}
+
+button:hover {
+    width: 210px;
+    height: 60px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+h3 {
+    font-family: algerian;
+    font-weight: bolder;
+    font-size: xx-large;
+    margin-left: 550px;
+}

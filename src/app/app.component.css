@@ -1,0 +1,29 @@
+body {
+    background-color: mintcream;
+}
+
+div {
+    width: 30%;
+    height: 80px;
+    font-family: fantasy;
+    color: white;
+    font-weight: 20px;
+    font-size: 70px;
+    font-style: italic;
+}
+
+li {
+    font-size: medium;
+    font-style: bold;
+    font-family: sans-serif;
+    font-weight: 800;
+    lighting-color: royalblue;
+}
+
+li:hover {
+    color: danger
+}
+
+b {
+    color: rgb(2, 51, 2);
+}

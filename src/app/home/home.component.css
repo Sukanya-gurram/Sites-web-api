@@ -1,0 +1,19 @@
+img {
+    width: 45%;
+    height: 500px;
+    border: 2px solid whitesmoke;
+    border-radius: 40px;
+}
+
+p {
+    margin-right: 200px;
+    text-align: justify;
+    font-family: georgia;
+    font-size: medium;
+}
+
+b {
+    font-size: xx-large;
+    line-height: 25px;
+    font-weight: 1000px;
+}
